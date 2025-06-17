@@ -1,8 +1,3 @@
-Sure! Here's the complete `README.md` file for your **WA-cop** project:
-
----
-
-````markdown
 # 🚔 WA-cop
 
 WA-cop is a simple and extensible WhatsApp group moderation bot built using the [Baileys](https://github.com/WhiskeySockets/Baileys) JavaScript library. It monitors messages in real-time and warns users who use banned words.
