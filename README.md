@@ -128,13 +128,3 @@ Feel free to fork, modify, and contribute.
 ## 🙏 Credits
 
 * Built using [Baileys](https://github.com/WhiskeySockets/Baileys) – a powerful WhatsApp Web API
-
-```
-
----
-
-You can copy and paste this directly into your `README.md` file. Let me know if you’d like to add:
-- A demo video or screenshot section
-- Deployment instructions (like Railway/Replit)
-- GitHub badges (stars, forks, license, etc.)
-```
